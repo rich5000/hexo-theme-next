@@ -656,6 +656,10 @@ canvas_ribbon:
   alpha: 0.6 # The transparency of the ribbon
   zIndex: -1 # The display level of the ribbon
 
+# Enable or disable the Google AdSense.
+google_adsense:
+  enable: true
+  google_ad_client_id: pub-9812435720862785
 
 # ---------------------------------------------------------------
 # Comments Settings
